@@ -1,0 +1,17 @@
+{
+    "name": "root/tradutor",
+    "description": "Tradutor Slim Framework",
+    "require": {
+        "slim/slim": "^3.8",
+        "zeuxisoo/slim-whoops": "^0.6.1",
+        "filp/whoops": "^2.1",
+        "illuminate/translation": "^5.4",
+        "illuminate/filesystem": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "Leonardo Alves",
+            "email": "leonardo-alves2@hotmail.com"
+        }
+    ]
+}
